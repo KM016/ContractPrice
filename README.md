@@ -15,14 +15,14 @@ The project builds upon the previous task of estimating and forecasting natural 
 
 - **Develop a pricing model**: Build a Python function that evaluates contract values based on injection/withdrawal dates and costs.
 - **Input parameters**:
-  1. Injection dates
-  2. Withdrawal dates
-  3. Natural gas prices on the dates
-  4. Injection/withdrawal rate
-  5. Maximum storage volume
-  6. Storage costs
-  7. Transportation costs
-- **Generalize the model**: The model must handle multiple contracts and output their values.
+  - Injection dates
+  - Withdrawal dates
+  - Natural gas prices on the dates
+  - Injection/withdrawal rate
+  - Maximum storage volume
+  - Storage costs
+  - Transportation costs
+- **Generalise the model**: The model must handle multiple contracts and output their values.
 
 ### Steps Involved
 
