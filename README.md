@@ -6,11 +6,6 @@ A prototype Python function for valuing simplified natural gas storage opportuni
 > J.P. Morgan Chase Forage Quantitative Research Job Simulation<br>
 > Date: 09/2024<br>
 
-# Natural Gas Storage Contract Pricing
-
-A prototype Python function for valuing simplified natural gas storage opportunities using estimated injection and withdrawal prices.
-
-
 ## Project overview
 
 Natural gas storage can create value when gas is bought and injected at a lower price, stored, and later withdrawn and sold at a higher price. This notebook extends the forecasting work from Task 1 and combines estimated prices with a simple set of storage assumptions.
