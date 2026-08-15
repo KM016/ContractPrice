@@ -3,9 +3,8 @@
 A prototype Python function for valuing simplified natural gas storage opportunities using estimated injection and withdrawal prices.
 
 
-> 09/2024<br>
-> J.P. Morgan Chase Forage Quantitative Research Job Simulation
-
+> J.P. Morgan Chase Forage Quantitative Research Job Simulation<br>
+> Date: 09/2024<br>
 
 # Natural Gas Storage Contract Pricing
 
