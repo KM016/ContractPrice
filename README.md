@@ -1,4 +1,4 @@
-# ContractPrice
+# Natural Gas Storage Contract Pricing
 
 A prototype Python function for valuing simplified natural gas storage opportunities using estimated injection and withdrawal prices.
 
